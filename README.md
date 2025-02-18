@@ -1,3 +1,5 @@
+![release](https://github.com/user-attachments/assets/9dd4851b-f4b6-4190-8a53-b5a81773d920)
+
 # Windows Audio Control Demo
 
 This project demonstrates how to control Windows audio devices using Python, the Windows Core Audio APIs, and Tkinter. It leverages Python’s built-in `ctypes` module to interact with COM objects and provides a graphical interface for:
