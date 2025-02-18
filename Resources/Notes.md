@@ -15,8 +15,8 @@ https://learn.microsoft.com/en-us/answers/questions/1162167/how-to-find-audio-de
 https://github.com/amate/SetDefaultAudioDevice/blob/540e9b6c55554f27b5a5436505c8e62d6ed253e6/PolicyConfig.h  
 
 Windows SDK Headers:  
-https://github.com/hughbe/windows-sdk-headers/blob/89f151d343587fcd5b854a4851fcb8f7187f3ac4/Include/v7.1/endpointvolume.h#L4  
-
+https://github.com/hughbe/windows-sdk-headers/blob/89f151d343587fcd5b854a4851fcb8f7187f3ac4/Include/v7.1/endpointvolume.h#L4    
+https://github.com/hughbe/windows-sdk-headers/blob/89f151d343587fcd5b854a4851fcb8f7187f3ac4/Include/v7.1/mmdeviceapi.h#L897  
 
 Unused resources:  
 https://github.com/ThiefMaster/coreaudio-dotnet/blob/master/CoreAudio/Interfaces/IPolicyConfig.cs  
