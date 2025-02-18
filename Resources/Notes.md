@@ -1,8 +1,9 @@
-
+The entire project was guided by o3-mini model, regular free tier as given by OpenAI.  
+https://chatgpt.com/share/67b4bc27-6ca0-800b-a587-101e91e2964c
 
 The IPolicyConfig and PolicyConfig interfaces are undocumented by Microsoft and are not officially distributed. However, developers have reverse-engineered these interfaces, and you can find their definitions in various open-source projects. https://chatgpt.com/share/67b4ba5f-97f4-800b-9c6f-bcfcebe8ad54
 
-The o3-mini model was provided with PolicyConfig.h as suggested by official Microsoft Vendor 
+The o3-mini model was provided with PolicyConfig.h from amate repository as suggested by official Microsoft Vendor 
 > Xiaopo Yang - MSFT
 > 12,726 Reputation points• Microsoft Vendor
 ![Screenshot (261)](https://github.com/user-attachments/assets/7734e547-4040-4f6b-8e10-a69eded93c9e)
