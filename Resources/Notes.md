@@ -13,3 +13,9 @@ The official suggestion appeared to be an example repository by https://github.c
 Sources:   
 https://learn.microsoft.com/en-us/answers/questions/1162167/how-to-find-audio-devices-that-are-connected  
 https://github.com/amate/SetDefaultAudioDevice/blob/540e9b6c55554f27b5a5436505c8e62d6ed253e6/PolicyConfig.h  
+
+
+Unused resources:  
+https://github.com/ThiefMaster/coreaudio-dotnet/blob/master/CoreAudio/Interfaces/IPolicyConfig.cs  
+https://github.com/Belphemur/AudioEndPointLibrary/blob/master/DefSound/PolicyConfig.h  
+
