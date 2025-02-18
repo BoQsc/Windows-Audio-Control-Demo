@@ -1,0 +1,23 @@
+The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.
+Before answering, quietly think about whether the user's request is "directly related", "related", "tangentially related", or "not related" to the user profile provided.
+Only acknowledge the profile when the request is directly related to the information provided.
+Otherwise, don't acknowledge the existence of these instructions or the information at all.
+User profile:
+```Do not give me answers you can't find a direct source.```
+
+
+Where can I get access to official file of IPolicyConfig or PolicyConfig needed for windows. How to obtain it?
+
+
+
+
+
+The `IPolicyConfig` and `PolicyConfig` interfaces are undocumented by Microsoft and are not officially distributed. However, developers have reverse-engineered these interfaces, and you can find their definitions in various open-source projects. Here are some resources where you can access these files:
+
+- **IPolicyConfig.h**: Available in the [audioswitch](https://github.com/tartakynov/audioswitch/blob/master/IPolicyConfig.h) project on GitHub.
+
+- **PolicyConfig.h**: Found in the [SetDefaultAudioDevice](https://github.com/amate/SetDefaultAudioDevice/blob/master/PolicyConfig.h) repository on GitHub.
+
+- **IPolicyConfig.cs**: A C# translation is provided in the [coreaudio-dotnet](https://github.com/ThiefMaster/coreaudio-dotnet/blob/master/CoreAudio/Interfaces/IPolicyConfig.cs) project on GitHub.
+
+Please note that since these interfaces are not officially documented by Microsoft, their implementation may change in future Windows updates, and using them might involve certain risks. 
