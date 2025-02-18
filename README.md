@@ -23,5 +23,5 @@ This project demonstrates how to control Windows audio devices using Python, the
 
 - **Operating System:** Windows Vista/7 or later
 - **Python Version:** 3.6 or later
-- **Administrator Privileges:** Required for switching the default audio endpoint.
+- ~~**Administrator Privileges:** Required for switching the default audio endpoint.~~
 - **Tkinter:** Typically included with Python on Windows.
